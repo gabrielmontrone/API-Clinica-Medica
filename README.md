@@ -1,2 +1,1 @@
-# API-Clinica-Medica
-API desenvolvida para uma clínica usando Django Rest Framework
+API criada em Django Rest Framework para uma clínica médica controlar pacientes cadastrados, agendamentos, históricos e imagens.
