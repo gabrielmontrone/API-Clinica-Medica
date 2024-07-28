@@ -1,6 +1,9 @@
 API criada em Django Rest Framework para uma clínica médica controlar pacientes cadastrados, agendamentos, históricos e imagens.
 
 # Configurações do Projeto
+
+## Requisitos
+
 1. Ative o ambiente virtual:
 ```sh
 .\venv\Scripts\activate # No Windows
